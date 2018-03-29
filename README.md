@@ -15,13 +15,13 @@ This is a Laravel wrapper for the [whatsapp/chat-api](//github.com/mgp25/Chat-AP
 ## Include the package in your application <a id="include-the-package-in-your-application"></a>
 
 ``` bash
-composer require lucasvdh/laravelwhatsapp:dev-master
+composer require dmeys/laravelwhatsapp:dev-master
 ```
 Or add a requirement to your project's composer.json
 
 ``` javascript
   "require": {
-    "lucasvdh/laravelmacros": "dev-master"
+    "dmeys/laravelwhatsapp": "dev-master"
   },
 ```
 
