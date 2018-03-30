@@ -3,8 +3,7 @@
     "description": "A laravel wrapper",
 	"require": {
 		"php": ">=5.3.0",
-		"laravel/framework": "5.*",
-		"dmeys/whatsapp-chat-api": "v3.2.0.2-dev"
+		"laravel/framework": "5.*"
 	},
     "authors": [
         {
